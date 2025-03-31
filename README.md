@@ -38,7 +38,8 @@ This project uses **Natural Language Processing (NLP)** and financial sentiment 
 
 ## 📷 Sample Output
 
-![Prediction Graph](./your_prediction_plot.png)
+![download](https://github.com/user-attachments/assets/f2cbc3e1-c8d6-4912-a909-38b02a968af0)
+
 
 ---
 
