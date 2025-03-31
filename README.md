@@ -45,13 +45,6 @@ This project uses **Natural Language Processing (NLP)** and financial sentiment 
 
 ## 🗂️ Files
 - `notebook.ipynb` – Full Jupyter Notebook with all steps
-- `requirements.txt` – Python dependencies
 - `README.md` – This file
-- Optionally: `finbert_predictions.csv` or `merged_dataset.csv`
 
----
 
-## 🚀 How to Run
-
-```bash
-pip install -r requirements.txt
