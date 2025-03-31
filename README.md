@@ -5,10 +5,10 @@ This project uses **Natural Language Processing (NLP)** and financial sentiment 
 ---
 
 ## 🔧 Tools & Technologies
-- 🧠 **FinBERT**: Transformer-based model for financial sentiment analysis
-- 📘 **Takala Financial PhraseBank**: Human-labeled financial sentence dataset
-- 💹 **yfinance**: For downloading historical MSFT stock data
-- 🐍 **Python**, **pandas**, **scikit-learn**, **matplotlib**, **transformers**
+-  **FinBERT**: Transformer-based model for financial sentiment analysis
+- 　**Takala Financial PhraseBank**: Human-labeled financial sentence dataset
+-  **yfinance**: For downloading historical MSFT stock data
+-  **Python**, **pandas**, **scikit-learn**, **matplotlib**, **transformers**
 
 ---
 
